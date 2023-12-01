@@ -1,0 +1,62 @@
+.caja1{
+    border: double;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.caja2{
+    border: groove;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.caja3{
+    border: outset;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.caja4{
+    border: dashed;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.caja5{
+    border: inset;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+div{
+    display: inline-block;
+}
+ 
+.caja6{
+    border: inset;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+
+.caja7{
+    border: dashed;
+    margin: 15px;
+    width: 200px;
+    text-align: justify;
+    padding: 5px;
+}
+#linea2{
+    display: inline-block;
+}
